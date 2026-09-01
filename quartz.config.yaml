@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://github.com/Noodleboy80/nahua-quartz-wiki.git
+  baseUrl: Noodleboy80.github.io/nahua-quartz-wiki
   ignorePatterns:
     - private
     - templates
